@@ -1,0 +1,158 @@
+/*#### CSS for different screen #####*/
+/*############### START ################*/
+/*phone*/
+@media screen and (max-width: 767px) {
+	h1{
+		text-align: center;
+	}
+
+	h2{
+		margin: 0 0 0 0;
+	}
+
+	#step_1_content, #step_2_content{
+		position: absolute;
+		left: 20%;;
+		bottom: 2%;
+	}
+	#step_1, #step_2{
+		position: relative;
+	}
+
+	#step_1_img, #step_2_img{ 
+		position: absolute;
+		left: 5%;
+	}
+	.howappwork .row{
+		margin-bottom: 5%;
+		height: 150px;
+	}
+
+	#download_app{
+		width: 100%;
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		justify-content: center;
+	}
+}
+
+/* sm */
+@media screen and (min-width: 768px) {
+
+	#step_1_content, #step_2_content{
+		position: absolute;
+		left: 20%;;
+		bottom: 2%;
+	}
+	#step_1, #step_2{
+		position: relative;
+	}
+
+	#step_1_img, #step_2_img{ 
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+		position: absolute;
+		left: 5%;
+	}
+	.howappwork .row{
+		margin-bottom: 5%;
+		height: 100px;
+	}
+
+}
+
+/* md */
+@media screen and (min-width: 992px) {
+
+	#step_1_content, #step_2_content{
+		position: absolute;
+		left: 20%;;
+		bottom: 2%;
+	}
+	#step_1, #step_2{
+	position: relative;
+}
+
+#step_1_img, #step_2_img{ 
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	position: absolute;
+	left: 5%;
+}
+.howappwork .row{
+	margin-bottom: 5%;
+	height: 100px;
+}
+}
+
+/* lg */
+@media screen and (min-width: 1200px) {
+	.top_spec_descr{
+		text-align: center;
+	}
+
+	#step_1_content, #step_2_content{
+		position: absolute;
+		left: 20%;;
+		bottom: 2%;
+	}
+	#step_1, #step_2{
+	position: relative;
+}
+
+#step_1_img, #step_2_img{ 
+	display: flex;
+	flex-direction: column;
+	align-items: stretch;
+	position: absolute;
+	left: 5%;
+}
+.howappwork .row{
+	margin-bottom: 5%;
+	height: 100px;
+}
+}
+/*#### CSS for different screen #####*/
+/*############### END ################*/
+
+/*#### COMMON CSS for all screen #####*/
+/*####################################*/
+/*####### start of the howappwork #######*/
+
+#download_app{
+	height: 100%;
+}
+/*####### start of the step #######*/
+#listen_type{
+	margin-top:8%;
+}
+
+
+/*####### start of the  download_app #######*/
+
+#download_app{
+	display: flex;
+	align-items: stretch;
+	justify-content: space-between;
+}
+
+#download_app_content{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+#download_app_img{
+	padding-top: 1vh;
+}
+
+#applestoreicon{
+	width: 30%;
+	height: 20%;
+}
+/*####### end of the howappwork #######*/
+/*#### COMMON CSS for all screen #####*/
+/*############### END ################*/

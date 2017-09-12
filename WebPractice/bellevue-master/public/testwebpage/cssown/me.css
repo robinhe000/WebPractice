@@ -1,0 +1,42 @@
+.navbar-brand img{
+	width: 50px;
+	height: 50px;
+}
+.navbar-header{
+	height: 80px;
+}
+.nav.navbar-nav.navbar-right li{
+	margin-top: 10px;
+}
+.nav.navbar-nav.navbar-right a{
+	font-size: 18px;
+}
+.glyphicon.glyphicon-search {
+	float: left;
+	font-size: 30px;
+	margin-top: 20px;
+}
+.page-header h1{
+	margin-left: 20px;
+}
+.container.sign h4{
+	margin-top: 100px;
+	text-align: center;
+	margin-bottom: 150px;
+}
+img.img-responsive.points2{
+	float: left;
+}
+.col-md-6.get h2{
+	margin-left: 100px;
+}
+img.img-responsive.phtones{
+	height: 700px;
+}
+img.img-responsive.appstore{
+	margin-top: 100px;
+}
+img.img-responsive.googleplay{
+	height: 90px;
+	margin-top: 12	0px;
+}

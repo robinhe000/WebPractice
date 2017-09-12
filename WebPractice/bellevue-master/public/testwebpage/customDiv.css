@@ -1,0 +1,264 @@
+/*#header {
+	height:500px;
+	width: 100%;
+	display: center;
+	background-image: url("needforback.png");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+#center{
+	width: 960px;
+	margin:0 auto;
+}
+.picture{
+	height: 89px;
+	width: 100px;
+	float: left;
+	margin-left: 150px;
+}
+.navbar{
+	height: 89px;
+	width: 70%;
+	float: left;
+	margin:40px 0 20px 25px;
+}
+.navbar img{
+	height: 25px;
+	width: 25px;
+}
+.navbar a{
+	margin-left: 30px;
+	color: white;
+}
+.navbar li{
+	float: left;
+	font-size: 25px;
+	list-style: none;
+	margin-left: 50px;
+	margin-top: 20px;
+}
+.picture img{
+	float: left;
+	width: 85px;
+	height: 89px;
+	margin:3% 0 0 5%;
+}
+.category{
+	height: 300px;
+	width: 100%;
+	clear: both;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.category h1{
+	padding:30px 0 0 110px;
+	margin-bottom: 50px;
+}
+.categoryimg li{
+	float: left;
+	margin:20px 0 0 70px;
+}
+.categoryimg img{
+	width:70px;
+	height: 70px;
+}
+.categoryimg h5{
+	margin: 20px 0 0 10px;
+}
+.topspecial{
+	margin-top: 30px;
+	width: 100%;
+	height: 250px;
+}
+.topspecial h1{
+	padding:10px 0 30px 110px;
+}
+.topinformation li{
+	float: left;
+	margin-left: 50px;
+}
+.topinformation h3{
+	float: left;
+}
+.topinformation img{
+	float: left;
+	width: 120px;
+	height:120px;
+}
+#latestquestion{
+	height: 800px;
+	width: 100%;
+
+}
+.latestqus{
+	width: 100%;
+	height: 150px;
+}
+.latestqus h1{
+	padding:30px 0 0 110px;
+}
+/*这是latest的图片层*/
+/*.latestcontent{
+	width: 100%;
+	height: 250px;
+}
+
+
+.midbox {
+	width:100%;
+	height: 421px;
+	margin: 0 auto;
+	padding:20px 0px 20px 50px;
+	background: none;
+}
+.smile2{
+	float: left;
+	width: 100px;
+	height:100px;
+	margin-left: 100px;
+}
+.secondbox{
+	width: 200px;
+	height: 120px;
+	float: left;
+	margin-left: 50px;
+}
+.btn-group{
+	width: 150px;
+	height: 50px;
+	float: left;
+	margin: 20px 0 0 100px;
+}
+.thirdp{
+	float: left;
+	margin:40px 0 0 0px;
+}
+#mid{
+	width: 100%;
+	height: 300px;
+}
+.peoplepicture img {
+	width: 250px;
+	height: 150px;
+	padding: 50px 0px 0px 150px;
+}
+
+.ratenumber{
+	float: left;
+	width: 200px;
+	height: 150px;
+	padding: 20px 0px 0px 20px;
+}
+.follow{
+	float: left;
+	width: 100px;
+	height: 50px;
+	font-size: 30px;
+	margin-left: 20px;
+}
+.answer{
+	float: left;
+	width: 100px;
+	height: 50px;
+	font-size: 30px;
+	margin-left: 50px;
+}
+.questions{
+	float: left;
+	width: 150px;
+	height: 50px;
+	font-size: 30px;
+	margin-left: 60px;
+}
+.span4{
+	float: left;
+}
+.relate{
+	height: 100px;
+	margin-left: 100px;
+}
+.Qpicture{
+	margin-left: 100px;
+	height: 100px;
+}
+.answer2 p{
+	font-size: 25px;
+	float:left ;
+	padding: 0 0 0 100px;
+}
+.peoplepicture2 img{
+	width: 120px;
+	height: 120px;
+	margin-top: 50px;
+	margin-left:90px;
+}
+*/
+
+/*这个是bootstrap的css*/
+/*.container{
+	margin-right: auto;
+    margin-left: auto;
+    padding-left: px;
+    padding-right: 200px;
+}*/
+.navbar-brand img{
+	width: 50px;
+	height: 50px;
+}
+.navbar-header{
+	height: 80px;
+}
+.nav.navbar-nav.navbar-right li{
+	margin-top: 10px;
+}
+.nav.navbar-nav.navbar-right a{
+	font-size: 18px;
+}
+.page-header h1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.col-md-2.check img{
+	height: 80px;
+	width: 80px;
+}
+.col-md-2.check h5{
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.col-md-4.photos img{
+	height: 120px;
+	width: 120px;
+	float: left;
+}
+.col-md-4.photos h3{
+	float: left;
+	margin-left: 20px;
+}
+.col-md-4.photos p{
+	float: left;
+	margin-left: 20px;
+}
+.img-responsive.points{
+	height: 100px;
+	width: 100px;
+	float: left;
+}
+.img-responsive.quote{
+	float: left;
+	margin-left: 120px;
+}
+.col-md-6.parag p{
+	float: left;
+}
+.btn.btn-success.btn-lg.dropdown-toggle{
+	margin-top: 20px;
+}
+.row.toplist1{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.row.toplist2{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

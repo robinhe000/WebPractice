@@ -1,0 +1,184 @@
+/*#### COMMON CSS for all screen #####*/
+/*####################################*/
+/* start of the #### SEARCH BAR #### */
+/*
+
+.search_result{
+	display: none;
+}
+#search_form div{
+	width: 100%;
+	height: 100px;
+	position: relative;
+}
+
+#search_input{
+	font-size:30px;
+}
+
+#search_form div input{
+	position: absolute;
+	bottom:24px;
+	left:50px;
+}
+
+#search_form .material-icons{
+	font-size: 50px;
+}*/
+/* end of the #### SEARCH BAR #### */
+
+
+/* start of the #### TOP SPECIALISTS #### */
+/*.top_spec_img img{
+		width: 90px;
+		height: 90px;
+}*/
+/* end of the #### TOP SPECIALISTS #### */
+
+
+/* start of the #### RELATED ANSWER #### */
+/*.top_spec_descr p, .related_ppl_titl p{
+		font-size: 18px;
+        text-align:left;
+        color:#929292;
+        margin: 0 0 0 0;
+}
+
+.quote_content{
+	display: flex;
+	align-content: center;
+	align-items: center;
+}
+
+.related_answer_row{
+	display: flex;
+	align-items: stretch;
+	justify-content: center;
+	margin-top:3vh;
+}
+
+.relate_answer_item{
+	border-bottom:1px solid #e4e4e4;
+}
+
+.related_btn_div{
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+}
+
+.related_ppl_titl{
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+}
+
+.related_btn_div button{
+	border:2px solid #e6575d;
+	border-radius:6px;
+	background-color: white;
+	color:#e6575d;
+}*/
+/* end of the #### RELATED ANSWER #### */
+/*#### COMMON CSS for all screen #####*/
+/*############### END ################*/
+
+
+/*#### CSS for different screen #####*/
+/*############### START ################*/
+/*phone*/
+/*@media screen and (max-width: 767px) {
+   h1{
+		text-align: center;
+
+	}
+	h4{
+		margin: 0 0 0 0;
+	}
+	h3{
+		margin: 0 0 0 0;
+	}
+
+	.spec_ppl_item .row{
+		display: flex;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.related_btn_div button{
+		font-size: 12px;
+	}
+
+	.related_btn_div{
+		font-size: 12px;
+		display: flex;
+		align-items: center;
+		justify-content: flex-end;
+	}
+
+	.top_spec_img img{
+		width: 90px;
+		height: 90px;
+	}
+	.relate_answer_item{
+		margin-bottom: 20px;
+		padding-bottom:20px;
+	}
+	
+
+}*/
+
+
+
+/* sm */
+/*@media screen and (min-width: 768px) {
+	.top_spec_descr{
+		vertical-align: middle;
+	}
+
+	.top_spec_img img{
+		width: 100px;
+		height: 100px;
+	}
+	.relate_answer_item{
+		margin-bottom: 30px;
+		padding-bottom: 30px;
+	}
+
+}*/
+
+/* md */
+/*@media screen and (min-width: 992px) {
+	.top_spec_img img, .cate img{
+		width: 100px;
+		height: 100px;
+	}
+
+	.top_spec_descr h4{
+		font-size:20px;
+		color:#000000;
+		letter-spacing:1px;
+		line-height:22px;
+		text-align:left;
+	}
+	.relate_answer_item{
+		margin-bottom: 60px;
+		padding-bottom: 60px;
+	}
+}*/
+
+/* lg */
+/*@media screen and (min-width: 1200px) {
+	.top_spec_descr{
+		text-align: center;
+	}
+	.top_spec_img img, .cate img{
+		width: 105px;
+		height: 105px;
+	}
+	.relate_answer_item{
+		margin-bottom: 60px;
+		padding-bottom:60px;
+	}
+}*/
+/*#### CSS for different screen #####*/
+/*############### END ################*/
